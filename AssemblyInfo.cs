@@ -5,7 +5,7 @@
 
 using System.Reflection;
 
-namespace Planetoid_DB.Helpers;
+namespace MijoSoftware;
 
 /// <summary>Provide some assembly information</summary>
 /// <remarks>This class provides access to assembly-level attributes.</remarks>
